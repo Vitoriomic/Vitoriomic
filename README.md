@@ -7,7 +7,7 @@ Possuo experiência no desenvolvimento de software utilizando Java e o framework
 com forte foco em integração de APIs REST e desenvolvimento de aplicações full stack,
 ultilizando Angular como framework para o front. 
 Tenho conhecimentos sólidos em bancos de dados PostgreSQL,
-além de ferramentas como Git para versionamento de código.
+além de ferramentas como Git para versionamento de código e Docker para conteinerização de aplicações.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitorio-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
