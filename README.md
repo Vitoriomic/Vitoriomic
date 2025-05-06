@@ -9,11 +9,6 @@ ultilizando Angular como framework para o front.
 Tenho conhecimentos sólidos em bancos de dados PostgreSQL,
 além de ferramentas como Git para versionamento de código.
 
-##
-
-
-![Vitoriomic's Stats](https://github-readme-stats.vercel.app/api?username=Vitoriomic&line_height=20&card_width=290&theme=react&show_icons=true&hide_border=true&count_private=true)![Vitoriomic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriomic&theme=react&show_icons=true&hide_border=true&layout=compact)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Vitorio-Java" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Vitorio-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
@@ -25,7 +20,6 @@ além de ferramentas como Git para versionamento de código.
   <img align="center" alt="Vitorio-Dockerr" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 </div>                 
 
-
 ##
 
 📩 Meus contantos
@@ -35,6 +29,12 @@ além de ferramentas como Git para versionamento de código.
   <a href="https://www.linkedin.com/in/vitorio-micheletto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+##
+
+  <a> GitHub Stats</a>
+  
+![Vitoriomic's Stats](https://github-readme-stats.vercel.app/api?username=Vitoriomic&line_height=20&card_width=290&theme=react&show_icons=true&hide_border=true&count_private=true)![Vitoriomic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoriomic&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 ##
 
