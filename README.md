@@ -22,7 +22,7 @@ além de ferramentas como Git para versionamento de código e Docker para contei
 
 ##
 
-📩 Meus contantos
+📩 Meus contatos
 
 <div> 
   <a href = "mailto:vitoriomicheletto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
